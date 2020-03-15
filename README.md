@@ -11,6 +11,13 @@
 
 Downloaded by BMK automatically.
 
+## OS
+
+* Windows 10 Tested. Support:
+  * Windows >= 8.1
+  * Windows Vista
+  * Windows Server >= 2003
+
 ## Snapshot
 
 ### 网络行为
