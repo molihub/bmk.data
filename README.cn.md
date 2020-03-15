@@ -18,7 +18,10 @@
 
 ## 系统要求
 
-* Windows 10 测试通过。技术上支持以下系统，未测试。
+* 测试通过:
+  * Windows 7(需要安装 WinPcap <https://www.winpcap.org/install/bin/WinPcap_4_1_3.exe>，已经随安装包附带)
+  * Windows 10
+* 技术上支持以下系统，未测试:
   * Windows >= 8.1
   * Windows Vista
   * Windows Server >= 2003

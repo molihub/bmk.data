@@ -12,7 +12,10 @@ Downloaded by BMK automatically.
 
 ## OS
 
-* Windows 10 Tested. Support:
+* Tested:
+  * Windows 7 (Need WinPcap <https://www.winpcap.org/install/bin/WinPcap_4_1_3.exe>, bundled in installer package.)
+  * Windows 10
+* Support:
   * Windows >= 8.1
   * Windows Vista
   * Windows Server >= 2003
