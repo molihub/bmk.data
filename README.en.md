@@ -1,6 +1,6 @@
 # Data of ByteLang Behave Monitor Kit
 
-[简体中文版](./README.cn.md "Chinese")
+[简体中文版](./README.cn.md)
 
 ## Bmk Application Installer
 

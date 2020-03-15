@@ -1,6 +1,6 @@
 # “字节语计算机行为检测系统”(ByteLang Behave Monitor Kit)数据包
 
-[English Version](./README.en.md "English")
+[English Version](./README.en.md)
 
 ## “字节语计算机行为检测系统”安装包
 
