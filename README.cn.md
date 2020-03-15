@@ -18,7 +18,7 @@
 
 ## 系统要求
 
-* Windows 10 测试通过。技术上支持一下系统，未测试。
+* Windows 10 测试通过。技术上支持以下系统，未测试。
   * Windows >= 8.1
   * Windows Vista
   * Windows Server >= 2003
