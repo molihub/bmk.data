@@ -13,7 +13,7 @@ Downloaded by BMK automatically.
 
 ## OS
 
-* Tested
+* Tested:
   * Windows 7 (Need WinPcap <https://www.winpcap.org/install/bin/WinPcap_4_1_3.exe>, bundled in installer package.)
   * Windows 10
 * Support:
@@ -23,10 +23,15 @@ Downloaded by BMK automatically.
 
 ## Snapshot
 
-### 网络行为
+### Network Behave
 
 ![网络行为](./Bmk/net.png)
 
-### 进程行为
+### Process Behave
 
 ![进程行为](./Bmk/proc.png)
+
+## Developer Site
+
+1. China(中国大陆) <https://gitee.com/molihub/bmk.data>
+2. Global Mirror(国际镜像) <https://github.com/molihub/bmk.data>
