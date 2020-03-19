@@ -34,3 +34,9 @@ Downloaded by BMK automatically.
 
 1. China(中国大陆) <https://gitee.com/molihub/bmk.data>
 2. Global Mirror(国际镜像) <https://github.com/molihub/bmk.data>
+
+## Licenses
+
+![](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)
+
+The behave library tag data of this work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
